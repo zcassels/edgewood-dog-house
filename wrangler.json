@@ -8,7 +8,8 @@
     "binding": "ASSETS"
   },
   "routes": [
-    { "pattern": "api-prod1-cf.edgewooddoghouse.com", "custom_domain": true }
+    { "pattern": "edgewooddoghouse.com", "custom_domain": true },
+    { "pattern": "www.edgewooddoghouse.com", "custom_domain": true }
   ],
   "observability": {
     "enabled": true
